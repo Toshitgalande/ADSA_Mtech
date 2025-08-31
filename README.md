@@ -1,4 +1,4 @@
 Searching Algo's
-|| Sorting Algo's || Creation, Insertion, Traversal, Deletion, Height  BT ,BST, AVL 
+|| Sorting Algo's || Creation, Insertion, Traversal, Deletion, Height in BT ,BST, AVL 
 || Red-Black insertion
 
