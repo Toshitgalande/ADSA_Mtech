@@ -1,15 +1,2 @@
 -> Searching Algo's
--> Sorting Algo's
--> Tree
-  -> Creation of Binary Tree
-  -> Insertion in Binary Tree
-  -> Traversal(PRE, IN, POST) of Binary Tree
-  -> Deletion in Binary Tree
-  -> Creation of Binary Search Tree
-  -> Insertion in Binary Search Tree
-  -> Traversal(PRE, IN, POST) of Binary Search Tree
-  -> Deletion in Binary Search Tree
-  -> Height of Tree
-  -> Height of any node in given binary search tree
-  -> Insertion in AVL 
-  -> Deletion in AVL
+
