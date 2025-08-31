@@ -1,3 +1,4 @@
 Searching Algo's
-| Sorting Algo's | Creation, Insertion, Traversal & Deletion on BT & BST | Height of Tree
+|| Sorting Algo's || Creation, Insertion, Traversal, Deletion, Height  BT ,BST, AVL 
+|| Red-Black insertion
 
